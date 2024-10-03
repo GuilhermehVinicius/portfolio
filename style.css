@@ -1,0 +1,41 @@
+.background-icon {
+    background-color: #000045;
+    transition: background-color 0.3s ease; /
+}
+
+.background-icon:hover {
+    background-color: rgba(0, 0, 69, 0.85); 
+}
+
+
+
+.portfolio {
+    font-weight: bold;
+    color: #000045;
+}
+
+.color-icon {
+    color: #ffffff;
+}
+
+.description {
+    max-width: 400px;
+    line-height: 1.5; 
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #000045;
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+img {
+    width: 100%; 
+    max-width: 420px; 
+    height: auto;
+}
